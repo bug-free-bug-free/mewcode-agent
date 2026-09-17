@@ -1,0 +1,8 @@
+build/
+.gradle/
+*.jar
+.idea/
+*.iml
+out/
+.mewcode/
+CLAUDE.md
